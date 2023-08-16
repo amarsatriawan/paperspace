@@ -1,5 +1,5 @@
 ---
 deployment:
 tasks:
-- export DEPLOYPATH=/home/usercpanel/public_html/paperspace.amarsatria.id
+- export DEPLOYPATH=https://github.com/amarsatriawan/paperspace.git
 - /bin/cp -r * $DEPLOYPATH
